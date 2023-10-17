@@ -1,0 +1,35 @@
+# Unity generated
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[sS]ysteminfo/
+
+# VS/MD solution and project files
+*.sln
+*.csproj
+*.unityproj
+*.sln.DotSettings.user
+*.userprefs
+
+# User-specific files
+*.user
+*.user.meta
+
+# MemoryCaptures can get excessive in size
+*.h5
+
+# macOS metadata
+.DS_Store
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Folder configuration file
+ProjectSettings/ProjectSettings.asset
+
+# Unity - Cloud Build
+[Bb]uilds/
