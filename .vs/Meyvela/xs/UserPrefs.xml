@@ -1,21 +1,22 @@
 ﻿<Properties StartupConfiguration="{7CD87A54-4B43-FDB6-F56D-4C45878210C0}|">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="087b7048-4b04-48f5-8c1c-f0c56bf3b077" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.ugui@1.0.0/Editor/UnityEditor.UI.asmdef">
-    <Files>
-      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Editor/UnityEditor.UI.asmdef" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Meyvela" selected="True" />
+          <Node name="Meyvela">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="58af4e58-f9d7-460c-bf2a-dbf21078aae4" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

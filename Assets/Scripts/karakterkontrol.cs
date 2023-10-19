@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class karakterkontrol : MonoBehaviour
@@ -17,11 +15,11 @@ public class karakterkontrol : MonoBehaviour
         {
             if (Input.mousePosition.x<Screen.width/2 && rb.position.x>-8)
             {
-                hiz=-8.0f;
+                hiz=-8.5f;
             }
             else if (Input.mousePosition.x>Screen.width/2 && rb.position.x<8)
             {
-                hiz=8.0f;
+                hiz=8.5f;
             }
             else
             {

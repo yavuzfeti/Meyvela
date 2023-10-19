@@ -1,10 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class meyvedusmesi : MonoBehaviour
 {
     [SerializeField] GameObject[] Meyve = new GameObject[12];
+    public float dusmeHizi = 1.0f;
 
     private void Start()
     {
