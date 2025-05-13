@@ -10,7 +10,7 @@ public class karakterkontrol : MonoBehaviour
     }
     void Update()
     {
-        rb.velocity=new Vector2(hiz,0.0f);
+        rb.linearVelocity=new Vector2(hiz,0.0f);
         if (Input.anyKey)
         {
             if (Input.mousePosition.x<Screen.width/2 && rb.position.x>-8)
